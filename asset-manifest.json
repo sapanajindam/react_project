@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sana-calc/static/css/main.fc09e2c9.css",
+    "main.js": "/sana-calc/static/js/main.8f29e143.js",
+    "static/js/787.a56d0904.chunk.js": "/sana-calc/static/js/787.a56d0904.chunk.js",
+    "index.html": "/sana-calc/index.html",
+    "main.fc09e2c9.css.map": "/sana-calc/static/css/main.fc09e2c9.css.map",
+    "main.8f29e143.js.map": "/sana-calc/static/js/main.8f29e143.js.map",
+    "787.a56d0904.chunk.js.map": "/sana-calc/static/js/787.a56d0904.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc09e2c9.css",
+    "static/js/main.8f29e143.js"
+  ]
+}
